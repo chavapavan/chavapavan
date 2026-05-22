@@ -1,55 +1,47 @@
-<h1 align="center">Hey, I'm Pavan Chava 👋</h1>
+# Hi, I'm Pavan Chava 👋
 
-<p align="center">
-  <b>Data & Business Intelligence Engineer</b> &nbsp;·&nbsp; 6 Years of Experience<br/>
-  Building data pipelines, BI dashboards & cloud solutions that drive decisions 📊
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chava-pavan">
-    <img src="https://img.shields.io/badge/LinkedIn-chava--pavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Data & BI Engineer with 6 years of experience building dashboards, data pipelines, and cloud solutions.
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- **6 years** of professional experience in Business Intelligence & Data Engineering
-- Expert in crafting enterprise-grade **Cognos BI** and **Power BI** reports & dashboards
-- Hands-on with **ETL pipelines** using SSIS across complex data environments
-- Experienced with **Microsoft Azure** cloud services for scalable data solutions
-- Strong **SQL** background — query optimization, stored procedures, data modeling
-- **Java** developer for backend data utilities and integrations
-- Open to collaborations, freelance projects, and full-time opportunities
+- 6 years in Business Intelligence and Data Engineering
+- Experienced with enterprise BI tools — IBM Cognos and Power BI
+- Skilled in building ETL pipelines with SSIS and SQL Server
+- Cloud experience on Microsoft Azure
+- Java for backend utilities and integrations
+- Open to new opportunities and collaborations
 
 ---
 
-## 🛠️ Tech Stack
+## Skills
 
-### 📊 Business Intelligence
-![Cognos BI](https://img.shields.io/badge/IBM%20Cognos%20BI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+| Category | Tools |
+|----------|-------|
+| BI & Reporting | IBM Cognos BI, Power BI |
+| Database | SQL, SQL Server, T-SQL |
+| ETL & Integration | SSIS, Azure Data Factory |
+| Cloud | Microsoft Azure |
+| Programming | Java |
 
-### 🗄️ Database & Query
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-### ☁️ Cloud & Integration
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS%20ETL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+## Projects
 
-### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+| Project | Description |
+|---------|-------------|
+| [Sales Dashboard](#) | Power BI dashboard with KPIs and trend analysis |
+| [Azure ETL Pipeline](#) | Data pipeline from source to Azure Data Warehouse |
+| [Cognos Report Templates](#) | Reusable enterprise reports for finance domain |
+| [SQL Toolkit](#) | Advanced SQL scripts for query optimization |
 
+---
 
-## 🤝 Let's Connect
+## Connect
 
-I'm always open to discussing **data engineering challenges**, **BI solutions**, or new opportunities.
-
+- LinkedIn: [linkedin.com/in/chava-pavan](https://www.linkedin.com/in/chava-pavan)
+- Email: your.email@gmail.com
 📬 Find me on [LinkedIn → linkedin.com/in/chava-pavan](https://www.linkedin.com/in/chava-pavan)
 
 ---
