@@ -27,21 +27,10 @@ Data & BI Engineer with 6 years of experience building dashboards, data pipeline
 
 ---
 
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [Sales Dashboard](#) | Power BI dashboard with KPIs and trend analysis |
-| [Azure ETL Pipeline](#) | Data pipeline from source to Azure Data Warehouse |
-| [Cognos Report Templates](#) | Reusable enterprise reports for finance domain |
-| [SQL Toolkit](#) | Advanced SQL scripts for query optimization |
-
----
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/chava-pavan](https://www.linkedin.com/in/chava-pavan)
-- Email: your.email@gmail.com
+- Email: pavanchava@gmail.com
 📬 Find me on [LinkedIn → linkedin.com/in/chava-pavan](https://www.linkedin.com/in/chava-pavan)
 
 ---
