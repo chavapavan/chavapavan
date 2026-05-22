@@ -45,30 +45,6 @@
 ### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 1 | 🔗 [Sales Analytics Dashboard](#) | Interactive Power BI dashboard with KPIs, trend analysis & drill-through pages | Power BI · SQL |
-| 2 | 🔗 [Azure ETL Pipeline](#) | End-to-end data pipeline from source systems into Azure Data Warehouse | Azure · SSIS · SQL |
-| 3 | 🔗 [Cognos Enterprise Reports](#) | Reusable Cognos BI report templates for finance & operations domains | Cognos BI · SQL Server |
-| 4 | 🔗 [SQL Optimization Toolkit](#) | Collection of advanced SQL scripts — query tuning, stored procs, indexing strategies | T-SQL · SQL Server |
-
-> 📌 *Replace `#` links with your actual repo URLs once uploaded.*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
