@@ -18,13 +18,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 **6 years** of professional experience in Business Intelligence & Data Engineering
-- 📊 Expert in crafting enterprise-grade **Cognos BI** and **Power BI** reports & dashboards
-- 🔧 Hands-on with **ETL pipelines** using SSIS across complex data environments
-- ☁️ Experienced with **Microsoft Azure** cloud services for scalable data solutions
-- 🗄️ Strong **SQL** background — query optimization, stored procedures, data modeling
-- ☕ **Java** developer for backend data utilities and integrations
-- 🤝 Open to collaborations, freelance projects, and full-time opportunities
+- **6 years** of professional experience in Business Intelligence & Data Engineering
+- Expert in crafting enterprise-grade **Cognos BI** and **Power BI** reports & dashboards
+- Hands-on with **ETL pipelines** using SSIS across complex data environments
+- Experienced with **Microsoft Azure** cloud services for scalable data solutions
+- Strong **SQL** background — query optimization, stored procedures, data modeling
+- **Java** developer for backend data utilities and integrations
+- Open to collaborations, freelance projects, and full-time opportunities
 
 ---
 
